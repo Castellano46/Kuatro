@@ -85,13 +85,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="¿No tienes una cuenta?"
-            android:background="@color/color_gray_light"
-            android:alpha="0.5"
-            android:textColor="@color/red"
+            android:textColor="@color/white"
             android:textSize="18dp"
             android:textStyle="bold"
             android:layout_marginTop="20dp"
-            android:layout_marginBottom="20dp"/>
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/button_selector"
+            android:onClick="onLoginButtonClick"/>
 
     </LinearLayout>
 
