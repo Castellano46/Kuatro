@@ -41,7 +41,7 @@ Por otro lado una vez el proyecto este terminado la idea es ponerlo en la App St
 
 ## Guía de usuario
 ---
-Esta App requiere de Login por parte del usuario y se registrará en la base de datos de Firebase.
+Esta App requiere de **Login** por parte del usuario y se registrará en la base de datos de Firebase.
 La variante pública que aquí se muestra no tiene un **Login** específico, puesto que se ha obviado este paso y así, de esta manera que pueda usarlo y ser probado por más usuarios sin necesidad de hacer login en ningún lado.
 
 ## Descripción y contexto
