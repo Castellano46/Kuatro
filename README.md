@@ -1,6 +1,6 @@
 ##  Reservas Cuatro
 Aplicación móvil desarrollada con **Android Studio** y lenguaje **Kotlin** para la gestión de reservas de pistas de pádel para una empresa local. 
-Esta aplicación estará desarrollada tanto para Android como para iOS.
+Esta aplicación estará desarrollada tanto para Android como para iOS y podrá descargarse próximamente desde la **AppStore**.
 
 ## Empecemos 👇
 
